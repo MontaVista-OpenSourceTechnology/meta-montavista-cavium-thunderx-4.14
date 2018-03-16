@@ -16,11 +16,6 @@ This layer depends on:
   layers: meta
   branch: rocko
 
-  URI: meta-montavista-cgx 
-  layers: meta-montavista-cgx
-  branch: rocko
-
-
 Patches
 =======
 
