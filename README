@@ -3,6 +3,9 @@ This README file contains information on building the cavium thunderx bsp
 BSP layer, and booting the images contained in the /binary directory.
 Please see the corresponding sections below for details.
 
+This BSP supports the following Cavium HW:
+- OCTEON TX 81xx (SFF)
+- OCTEON TX 83xx (EVB)
 
 Dependencies
 ============
@@ -19,5 +22,5 @@ This layer depends on:
 Patches
 =======
 
-Maintainer: Support <support@mvista.com>
+Maintainer: Support <jpuhlman@mvista.com>
 
